@@ -26,7 +26,7 @@ data:extend({
             "30",
             "60",
             "300",
-            "forever"
+            "never"
         },
     },
 
