@@ -1,0 +1,9 @@
+{
+    "name": "TemporaryStopDefaults",
+    "version": "1.0.0",
+    "title": "Temporary Stop Defaults",
+    "author": "Dusk Wuff",
+    "factorio_version": "1.1",
+    "dependencies": ["base"],
+    "description": "Allows players to customize the default wait conditions for temporary train stops they create"
+}
